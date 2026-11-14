@@ -1,0 +1,23 @@
+# Данные и артефакты модели
+*.csv
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Модели и предсказания
+models/
+predictions.csv
+.pytest_cache/
